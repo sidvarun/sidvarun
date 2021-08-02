@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidvarun
 - 👀 I’m interested in competitive coding, analysis of algorithms and problem solving
 - 🌱 I’m currently learning to develop native android and iOS apps
-- 💞️ I’m open for internship roles that are align with my learning
+- 💞️ I’m open for internship roles that align with my learning
 
 
 <!---
